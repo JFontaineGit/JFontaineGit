@@ -66,9 +66,9 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=JustFontaine&theme=dark&show_icons=true&count_private=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=JFontaineGit&theme=dark&show_icons=true&count_private=true" />
   <br><br>
-  <img title="🔥 Streak Stats" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=JustFontaine&theme=dark&hide_border=false" />
+  <img title="🔥 Streak Stats" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=JFontaineGit&theme=dark&hide_border=false" />
 </p>
 
 <br>
