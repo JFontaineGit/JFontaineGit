@@ -13,6 +13,8 @@
 
 ## 📌 About Me
 
+<img align='right' src="cat.gif" height="" width="300" alt="coding cat" title="Writing code">
+
 - 🎓 Data Science Student.
 - 💼 Focused on `Data Analysis` projects.
 - 📫 You can contact me via [email](mailto:itsmealeexvii@gmail.com).
