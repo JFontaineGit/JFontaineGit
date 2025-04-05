@@ -13,17 +13,11 @@
 
 ## 📌 About Me
 
+<img src="cat.gif" align="right" width="250" style="margin-left: 20px; border-radius: 10px;"/>
+
 - 🎓 Data Science Student.
 - 💼 Focused on `Data Analysis` projects.
 - 📫 You can contact me via [email](mailto:itsmealeexvii@gmail.com).
-
-<br>
-
-<p align="center">
-  <img src="cat.gif" height="180" alt="Cat with laptop"/>
-</p>
-
-<br>
 
 ## 🛠️ Skills
 
