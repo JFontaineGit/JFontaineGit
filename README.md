@@ -15,7 +15,7 @@
 
 - 🎓 Data Science Student.
 - 💼 Focused on `Data Analysis` projects.
-  # 📫 You can contact me via:
+# 📫 You can contact me via:
 <p align="center">
   <a href="mailto:itsmealeexvii@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   <a href="https://discord.com/users/746478954243686579"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
