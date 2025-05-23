@@ -4,7 +4,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="left">
-    <summary><h1 style="display: inline-block">Hello, I'm Alessandro R. (Just Fontaine) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1></summary>
+    <summary><h1 style="display: inline-block">Hello, I'm Alessandro R. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1></summary>
   </ul>
 </div>
 
@@ -15,12 +15,7 @@
 
 - 🎓 Data Science Student.
 - 💼 Focused on `Data Analysis` projects.
-# 📫 You can contact me via:
-<p align="center">
-  <a href="mailto:itsmealeexvii@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  <a href="https://discord.com/users/746478954243686579"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-</p>
-
+  
 <p align="center">
   <img src="cat.gif" height="180" alt="Cat with laptop"/>
 </p>
@@ -108,3 +103,9 @@
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+# 📫 You can contact me via:
+<p align="center">
+  <a href="mailto:itsmealeexvii@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <a href="https://discord.com/users/746478954243686579"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+</p>
