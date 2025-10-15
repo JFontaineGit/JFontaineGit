@@ -1,13 +1,3 @@
-<!-- Typing Intro -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-font=Fira+Code&pause=1000&color=00D1FF&center=true&width=700&lines=Hi%2C+I'm+Just+Fontaine;Data+Analysis+Enthusiast;Frontend+as+a+Complement;Always+learning+and+building+🚀">
-  </a>
-</p>
-
-<!-- Optional Banner -->
-<!-- <img src="BANNER_PLACEHOLDER" alt="Banner" width="100%"/> -->
-
 ---
 
 # 👋 Hi, I'm Just Fontaine
