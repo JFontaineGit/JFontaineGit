@@ -56,14 +56,14 @@ I also build **frontend interfaces (Angular, HTML, CSS/SCSS, TypeScript)** as a 
       <img src="IMAGE_PLACEHOLDER_1" width="260px" height="150px" alt="Hospital SDLG Front"/><br/>
       <b>Hospital SDLG Front</b><br/>
       The <i>frontend</i> of a hospital appointment system (turn scheduling UI).<br/>
-      <a href="#">GitHub</a> · <img alt="Status" src="https://img.shields.io/badge/Status-In%20Progress-orange?style=flat">
+      <a href="Joaquin-Gael/hospital_front">GitHub</a> · <img alt="Status" src="https://img.shields.io/badge/Status-In%20Progress-orange?style=flat">
     </td>
     <td align="center">
       <!-- IMAGE PLACEHOLDER -->
       <img src="IMAGE_PLACEHOLDER_2" width="260px" height="150px" alt="JIF-Tube"/><br/>
       <b>JIF-Tube</b><br/>
       A free music application (audio streaming / playlist features).<br/>
-      <a href="#">GitHub</a> · <img alt="Status" src="https://img.shields.io/badge/Status-Planning-blue?style=flat">
+      <a href="JFontaineGit/jif-tube">GitHub</a> · <img alt="Status" src="https://img.shields.io/badge/Status-Planning-blue?style=flat">
     </td>
   </tr>
 </table>
